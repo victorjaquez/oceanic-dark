@@ -1,0 +1,21 @@
+{
+    "name": "vic-oceanic-dark",
+    "displayName": "vic-oceanic-dark",
+    "description": "Dark minimal VS Code theme loosely based on Oceanic Next. ",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.30.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "oceanic-dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/oceanic-dark-color-theme.json"
+            }
+        ]
+    }
+}
