@@ -16,6 +16,7 @@
     "input.background": "#2a2e31",
     "list.activeSelectionBackground": "#65737e55",
     "list.hoverBackground": "#65737e55",
+    "list.dropBackground": "#65737e55"
     "list.inactiveSelectionBackground": "#65737e55",
     "menubar.selectionForeground": "#1d2225",
     "panel.background": "#1d2225",
